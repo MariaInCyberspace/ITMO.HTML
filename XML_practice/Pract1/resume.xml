@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+    <candidate id="1">
+        <firstName>Jane</firstName>
+        <lastName>Swank</lastName>
+        <middleName>Liz</middleName>
+        <workplace>LLC. GlobalTradeInc</workplace>
+        <position>PR consultant</position>
+        <dateOfBirth>1978.12.08</dateOfBirth>
+        <education>Masters in marketing from LSU</education>
+        <address>240A Thomas Boyd Hall Baton Rouge, LA 70803</address>
+        <phone>555-039-2323</phone>
+        <familyStatus>Single</familyStatus>
+        <desiredSalary currency="USD">40000</desiredSalary>
+    </candidate>
+
+    <candidate id="2">
+        <firstName>Michael</firstName>
+        <lastName>Stewart</lastName>
+        <middleName>-</middleName>
+        <workplace>LLC. SolarTM</workplace>
+        <position>PR manager</position>
+        <dateOfBirth>1989.10.21</dateOfBirth>
+        <education>Bachelor in public relations from RSU</education>
+        <address>1701 W. Will Rogers Blvd. Claremore, OK 74017</address>
+        <phone>800-256-7511</phone>
+        <familyStatus>Single</familyStatus>
+        <desiredSalary currency="USD">35000</desiredSalary>
+    </candidate>
+
+    <candidate id="3">
+        <firstName>Stephy</firstName>
+        <lastName>Harrison</lastName>
+        <middleName>Hope</middleName>
+        <workplace>LLC. MohannaMotors</workplace>
+        <position>PR assistant</position>
+        <dateOfBirth>1995.07.16</dateOfBirth>
+        <education>Bachelor in public relations from NAU</education>
+        <address>S. San Francisco Street Flagstaff, AZ 86011</address>
+        <phone>928-523-5511</phone>
+        <familyStatus>Single</familyStatus>
+        <desiredSalary currency="USD">30000</desiredSalary>
+    </candidate>
+
+</resume>
